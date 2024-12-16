@@ -1,0 +1,16 @@
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\bin\Debug\net8.0-windows\Nasa_conto_rovescia.exe
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\bin\Debug\net8.0-windows\Nasa_conto_rovescia.deps.json
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\bin\Debug\net8.0-windows\Nasa_conto_rovescia.runtimeconfig.json
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\bin\Debug\net8.0-windows\Nasa_conto_rovescia.dll
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\bin\Debug\net8.0-windows\Nasa_conto_rovescia.pdb
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.Form1.resources
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.csproj.GenerateResource.cache
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.dll
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\refint\Nasa_conto_rovescia.dll
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.pdb
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\Nasa_conto_rovescia.genruntimeconfig.cache
+C:\Users\diana\OneDrive\Desktop\Nasa_conto_rovescia\obj\Debug\net8.0-windows\ref\Nasa_conto_rovescia.dll
